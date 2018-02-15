@@ -14,7 +14,9 @@ export default class Portfolio extends React.Component {
     return (
 			<div style={{textAlign: 'left'}}>
 				<h1>Dev Portfolio</h1>
-				<p>Below are some of my current or past works in fuller details. Feel free to click on a card to read more information about the project. If you are interested in my resume, please click here.</p>
+				<p>Below are some of my current or past works in fuller details. Feel free to click on a 
+					card to read more information about the project. If you are interested in my resume, 
+					please click <a href='https://drive.google.com/open?id=1w1dCnKa9epP9UIFfXS8WAfgeGTtKBvnZ'>here.</a></p>
 				<Grid>
 					<Grid.Row columns={4}>
 						<Grid.Column>

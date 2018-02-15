@@ -16,10 +16,10 @@ export default class Creative extends React.Component {
 				<Grid>
 					<Grid.Row columns={4}>
 						<Grid.Column>
-                            <Photography />
+              <Photography />
 						</Grid.Column>
 						<Grid.Column>
-                            <Info362 />
+              <Info362 />
 						</Grid.Column>
 						<Grid.Column>
 						</Grid.Column>

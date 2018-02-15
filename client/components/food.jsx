@@ -24,11 +24,15 @@ export default class Food extends React.Component {
           <Modal.Content>
             <Modal.Description>
               <Header>Background Information</Header>
-              <p>One thing that this organization struggle with every year is having a streamline solution that will ease conference registration management. The Union of North America Vietnamese Student Association hosts an annual conference that brings in 500 Vietnamese leaders from across America and Canada.</p>
+              <p>The DRG Food Recovery aims to reduce food waste on the local UW Seattle campus. We are currently
+                working on a web application that partners with UW Housing and Food Services and local homeless
+                shelter to bring leftover food to shelters that needs it. The project is going underproduction
+                and going into building the front-end of the project as of now.</p>
               <hr />
-              <Header>Technical Details</Header>
-							<Header>Current Process</Header>
-              <Header>Highlighted Features</Header>
+              <Header>My Role</Header>
+              <p>I got hired as a front-end developer in February 2018. We are using React to develop all front
+                end designs. Since the UX design team have made a prototype and wireframe of all of the expected
+                design, I have been using their prototype to replicate it as closely as possible.</p>
             </Modal.Description>
           </Modal.Content>
         </Modal>
